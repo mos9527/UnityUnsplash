@@ -1,0 +1,5 @@
+.vs*
+Source/.vs*
+Source/x64*
+*.tmp
+x64/*
