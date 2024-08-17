@@ -5,6 +5,7 @@
 #include <cstdint>
 #include <stdlib.h>
 #include <stdio.h>
+#include <initializer_list>
 // Dependencies
 #include <Windows.h>
 #include <detours.h>
